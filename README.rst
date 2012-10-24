@@ -7,7 +7,7 @@ OWASP WebGoat 项目中文攻略
 
 本文为 `WebGoat`__ 项目中文攻略
 
-由reStructureText写成
+由 `reStructuredTexti<http://docutils.sourceforge.net/rst.html>`_ 写成
 
 WebGoat 5.4 （集成于 `OWASPBWA`__ )
 
