@@ -22,6 +22,7 @@ WebGoat界面
 ------------
 
 .. image:: ../../statics/images/Introduction/interface.png
+    :scale: 80 %
 
 1. 这里是WebGoat给我们提供的课程。
 2. 点击Hints可以给我们卡关带来提示。

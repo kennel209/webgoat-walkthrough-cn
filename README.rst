@@ -8,6 +8,7 @@ OWASP WebGoat 项目中文攻略
 本文为 `WebGoat`__ 项目中文攻略
 
 由 `reStructuredText <http://docutils.sourceforge.net/rst.html>`_ 写成
+文档组织为 `Sphinx <http://sphinx.pocoo.org>` 
 
 WebGoat 5.4 （集成于 `OWASPBWA`__ )
 
