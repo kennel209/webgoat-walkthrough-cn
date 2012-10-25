@@ -6,17 +6,24 @@
 Welcome to WebGoat中文攻略's documentation!
 ============================================
 
-Contents:
+前言
+-------
 
 .. toctree::
-    :maxdepth: 3
 
-    articles/index.rst
     README.rst
 
 
-Indices and tables
-==================
+正文
+-------
+
+.. toctree::
+    :maxdepth: 2
+    :numbered:
+
+    articles/index.rst
+
+--------------------------------
 
 * :ref:`genindex`
 * :ref:`modindex`

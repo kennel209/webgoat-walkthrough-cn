@@ -1,9 +1,12 @@
-文章目录
-=========
+Introduction
+=============
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
 
-   Introduction/index.rst
+   Introduction/How-to-work-with-WebGoat.rst
+
+Basic
+=======
 
 

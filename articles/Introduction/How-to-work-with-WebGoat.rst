@@ -1,11 +1,15 @@
 .. -*- coding: utf-8 -*-
 
+.. _title :
+
 如何利用WebGoat进行学习
 ========================
 
 欢迎来到WebGoat的舞台。
 
 这里你将会学习到如何使用WebGoat以及如何利用一些小工具完成课程。
+
+.. _environ :
 
 环境信息
 ---------
@@ -17,6 +21,8 @@ WebGoat使用Apache Tomcat服务器。
 可以参考 `Tomcat配置`__ 部分。
 
 __ Tomcat-Configuration.html
+
+.. _interface :
 
 WebGoat界面
 ------------
@@ -34,6 +40,8 @@ WebGoat界面
 8. 如果你希望重新学习已经完成的课程,点击这里将重新开始相关课程。
 9. 就是国外大神做的视频教程啦。
 
+.. _howto :
+
 答题方法
 ---------
 
@@ -41,6 +49,8 @@ WebGoat界面
 如有需要请积极利用提示（Hints）。
 最后一个提示往往是解决该课程的一种方案。
 如果通过提示还无法顺利回答课程问题的话，再去参考详细的解答（Solution）。（多思考，再看答案）
+
+.. _param :
 
 查看和修改参数
 ---------------
@@ -51,10 +61,14 @@ WebGoat界面
 
 __ Useful-Tools.html
 
+.. _cookies :
+
 查看和修改Cookies
 ------------------
 同样的，有时我们不仅需要修改用户提交的参数，还需要修改Cookies的值。同样我们使用WebScrarab来达到这一目的。
 （同样在WebGoat我们可以使用Show Cookies来查看）
+
+.. _last :
 
 完成课程
 ---------
