@@ -1,4 +1,5 @@
 .build/*
+.directory
 *.swp
 *~
 *.tmp
