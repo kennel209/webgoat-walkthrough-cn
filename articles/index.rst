@@ -16,4 +16,5 @@ General
     :titlesonly:
 
     General/Http-Basics.rst
+    General/Http-Splitting.rst
 
