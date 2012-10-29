@@ -2,14 +2,18 @@ Introduction
 =============
 
 .. toctree::
-   :titlesonly:
+    :titlesonly:
 
-   Introduction/How-to-work-with-WebGoat.rst
-   Introduction/Tomcat-Configuration.rst
-   Introduction/Useful-Tools.rst
-   Introduction/How-to-create-a-Lesson.rst
+    Introduction/How-to-work-with-WebGoat.rst
+    Introduction/Tomcat-Configuration.rst
+    Introduction/Useful-Tools.rst
+    Introduction/How-to-create-a-Lesson.rst
 
-Basic
-=======
+General
+========
 
+.. toctree::
+    :titlesonly:
+
+    General/Http-Basics.rst
 
