@@ -42,3 +42,10 @@ HTTP Splitting攻击原理
 
 输入任何语言，你会注意到应用程序将会重定向你的请求到服务器上的另一个页面。你能够输入CR(%0d)和LF(%0a)字符来执行这一攻击。你的目标是强制服务器返回一个2-- OK响应。如果你已经顺利劫持了服务器，成功执行了HTTP Splitting攻击，简单返回主页即可，就会进入阶段二。在阶段二完成后，页面左边会出现完成标记。
 
+1. 利用CRLF字符伪造应答进行HTTP Splitting攻击
+2. 同时结合缓存区毒化攻击
+
+你会发现  `PHP 字符编码转换器`__ 非常有用。使用Encode和DecodeURIComponent按钮来转换CR和LF字符。
+
+__ http://yehg.net/encoding/
+
