@@ -13,19 +13,19 @@ Welcome to WebGoat中文攻略's documentation!
 
     README.rst
 
-
 正文
--------
+-----
 
 .. toctree::
     :maxdepth: 2
     :numbered:
 
-    articles/index.rst
+    articles/Introduction/index.rst
+    articles/General/index.rst
+    articles/Access-Control-Flaws/index.rst
 
 --------------------------------
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
 
