@@ -25,5 +25,7 @@ Access Control Flaws
     :titlesonly:
 
     Access-Control-Flaws/Using-an-Access-Control-Matrix.rst
-
+    Access-Control-Flaws/Bybass-a-Path-Based-Access-Control-Schema.rst
+    Access-Control-Flaws/Role-Based-Access-Control.rst
+    Access-Control-Flaws/Remote-Admin-Access.rst
 
