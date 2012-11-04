@@ -23,6 +23,7 @@ Welcome to WebGoat中文攻略's documentation!
     articles/Introduction/index.rst
     articles/General/index.rst
     articles/Access-Control-Flaws/index.rst
+    articles/AJAX-Security/index.rst
 
 --------------------------------
 
