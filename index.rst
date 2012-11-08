@@ -24,6 +24,7 @@ Welcome to WebGoat中文攻略's documentation!
     articles/General/index.rst
     articles/Access-Control-Flaws/index.rst
     articles/AJAX-Security/index.rst
+    articles/Authentication-Flaws/index.rst
 
 --------------------------------
 
