@@ -20,3 +20,5 @@ __ http://docutils.sourceforge.net/rst.html
 __ http://sphinx.pocoo.org
 __ https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project
 
+目前进度在翻译课程计划中。。。
+
