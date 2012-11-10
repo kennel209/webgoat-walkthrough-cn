@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Authentication Flaws
-======================
+认证缺陷 （Authentication Flaws）
+====================================
 
 .. toctree::
     :maxdepth: 2

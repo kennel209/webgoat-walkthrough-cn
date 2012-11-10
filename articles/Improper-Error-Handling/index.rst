@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Improper Error Handling
-========================
+不正确错误处理 （Improper Error Handling）
+===============================================
 
 .. toctree::
     :maxdepth: 2

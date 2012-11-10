@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Concurrency
-==============
+并发性问题 （Concurrency）
+============================
 
 .. toctree::
     :maxdepth: 2

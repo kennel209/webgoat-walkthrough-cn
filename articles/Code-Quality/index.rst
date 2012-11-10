@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Code Quality
-=================
+代码质量 （Code Quality）
+==============================
 
 .. toctree::
     :maxdepth: 2

@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Insecure Communication
-=========================
+不安全通信 （Insecure Communication）
+======================================
 
 .. toctree::
     :maxdepth: 2

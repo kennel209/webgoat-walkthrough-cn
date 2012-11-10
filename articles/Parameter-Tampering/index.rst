@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Parameter Tampering
-=========================
+参数伪造 （Parameter Tampering）
+==================================
 
 .. toctree::
     :maxdepth: 2

@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Insecure Configuration
-=========================
+不安全配置问题 （Insecure Configuration）
+============================================
 
 .. toctree::
     :maxdepth: 2

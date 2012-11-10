@@ -1,5 +1,7 @@
-Access Control Flaws
-=====================
+.. -*- coding: utf-8 -*-
+
+访问权限控制缺陷 （Access Control Flaws）
+============================================
 
 .. toctree::
     :maxdepth: 2

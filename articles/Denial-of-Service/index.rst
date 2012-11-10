@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Denial of Service
-========================
+拒绝服务 （Denial of Service）
+================================
 
 .. toctree::
     :maxdepth: 2

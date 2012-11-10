@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-AJAX Security
-==============
+AJAX安全 （AJAX Security）
+=============================
 
 .. toctree::
     :maxdepth: 2

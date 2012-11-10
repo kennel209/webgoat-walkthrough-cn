@@ -1,6 +1,6 @@
 .. -*- coding: utf-8 -*-
 
-Challenge
+挑战 （Challenge）
 =========================
 
 .. toctree::

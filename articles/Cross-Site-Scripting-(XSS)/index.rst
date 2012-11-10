@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Cross-Site Scripting (XSS)
-============================
+跨站脚本 （Cross-Site Scripting,XSS）
+=========================================
 
 .. toctree::
     :maxdepth: 2

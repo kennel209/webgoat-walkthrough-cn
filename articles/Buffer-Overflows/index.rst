@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Buffer Overflows
-=================
+缓冲区溢出 （Buffer Overflows）
+=================================
 
 .. toctree::
     :maxdepth: 2

@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Session Management Flaws
-=========================
+会话管理缺陷 （Session Management Flaws）
+===========================================
 
 .. toctree::
     :maxdepth: 2

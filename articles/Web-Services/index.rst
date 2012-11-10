@@ -1,7 +1,7 @@
 .. -*- coding: utf-8 -*-
 
-Web Services
-=========================
+Web服务 （Web Services）
+===========================
 
 .. toctree::
     :maxdepth: 2
