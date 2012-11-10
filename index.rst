@@ -26,20 +26,20 @@ Welcome to WebGoat中文攻略's documentation!
     articles/AJAX-Security/index.rst
     articles/Authentication-Flaws/index.rst
     articles/Buffer-Overflows/index.rst
-#    articles/Code-Quality/index.rst
-#    articles/Concurrency/index.rst
-#    articles/Cross-Site-Scripting-(XSS)/index.rst
-#    articles/Denial-of-Service/index.rst
-#    articles/Improper-Error-Handling/index.rst
-#    articles/Injection-Flaws/index.rst
-#    articles/Insecure-Communication/index.rst
-#    articles/Insecure-Configuration/index.rst
-#    articles/Insecure-Storage/index.rst
-#    articles/Malicious-Execution/index.rst
-#    articles/Parameter-Tampering/index.rst
-#    articles/Session-Management-Flaws/index.rst
-#    articles/Web-Services/index.rst
-#    articles/Challenge/index.rst
+    articles/Code-Quality/index.rst
+    articles/Concurrency/index.rst
+    articles/Cross-Site-Scripting-(XSS)/index.rst
+    articles/Improper-Error-Handling/index.rst
+    articles/Injection-Flaws/index.rst
+    articles/Denial-of-Service/index.rst
+    articles/Insecure-Communication/index.rst
+    articles/Insecure-Configuration/index.rst
+    articles/Insecure-Storage/index.rst
+    articles/Malicious-Execution/index.rst
+    articles/Parameter-Tampering/index.rst
+    articles/Session-Management-Flaws/index.rst
+    articles/Web-Services/index.rst
+    articles/Challenge/index.rst
 
 --------------------------------
 
