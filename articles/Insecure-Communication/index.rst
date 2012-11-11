@@ -6,4 +6,5 @@
 .. toctree::
     :maxdepth: 2
 
+    Insecure-Login.rst
 

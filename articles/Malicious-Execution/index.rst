@@ -6,3 +6,5 @@
 .. toctree::
     :maxdepth: 2
 
+    Malicious-File-Execution.rst
+

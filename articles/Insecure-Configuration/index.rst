@@ -6,3 +6,5 @@
 .. toctree::
     :maxdepth: 2
 
+    Forced-Browsing.rst
+

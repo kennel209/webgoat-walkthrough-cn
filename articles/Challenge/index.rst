@@ -6,3 +6,5 @@
 .. toctree::
     :maxdepth: 2
 
+    The-CHALLENGE.rst
+
