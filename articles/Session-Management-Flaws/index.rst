@@ -6,3 +6,7 @@
 .. toctree::
     :maxdepth: 2
 
+    Hijack-a-Sesson.rst
+    Spoof-an-Authentication-Cookie.rst
+    Session-Fixation.rst
+
